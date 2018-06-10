@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.luoyong.site//404.html</loc>
+    <loc>http://www.luoyong.site/about/index.html</loc>
     
-    <lastmod>2018-05-13T09:37:51.279Z</lastmod>
+    <lastmod>2018-06-09T01:08:45.605Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.luoyong.site/about/index.html</loc>
+    <loc>http://www.luoyong.site/categories/index.html</loc>
     
-    <lastmod>2018-05-13T09:37:32.741Z</lastmod>
+    <lastmod>2018-05-14T23:12:57.073Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.luoyong.site/tags/index.html</loc>
+    
+    <lastmod>2018-05-14T23:11:48.484Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.luoyong.site//404.html</loc>
+    
+    <lastmod>2018-05-13T09:37:51.279Z</lastmod>
     
   </url>
   
@@ -26,20 +40,6 @@
     <loc>http://www.luoyong.site/2018/05/03/hello-world/</loc>
     
     <lastmod>2018-05-12T05:12:57.459Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.luoyong.site/tags/index.html</loc>
-    
-    <lastmod>2018-05-07T13:04:41.632Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.luoyong.site/categories/index.html</loc>
-    
-    <lastmod>2018-05-07T13:04:41.629Z</lastmod>
     
   </url>
   
